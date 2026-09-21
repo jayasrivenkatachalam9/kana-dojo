@@ -503,12 +503,18 @@
     "anime": "Bleach",
     "character": "Ichigo Kurosaki"
   },
+    {
+    "japanese": "大丈夫、僕最強だから",
+    "romaji": "Daijoubu, boku saikyou dakara",
+    "english": "Relax, I'm the strongest.",
+    "anime": "Jujutsu Kaisen",
+    "character": "Satoru Gojo"
+  },
   {
-  "japanese": "大丈夫、僕最強だから",
-  "romaji": "Daijoubu, boku saikyou dakara",
-  "english": "Relax, I'm the strongest.",
-  "anime": "Jujutsu Kaisen",
-  "character": "Satoru Gojo"
-}
-  
+    "japanese": "おまえはもう死んでいる",
+    "romaji": "Omae wa mou shindeiru",
+    "english": "You're already dead. (alt wording 18) (alt wording 70)",
+    "anime": "Fist of the North Star",
+    "character": "Kenshiro"
+  }
 ]
