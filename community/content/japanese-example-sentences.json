@@ -232,5 +232,11 @@
     "romaji": "Kanji no imi o bunmyaku de suisoku suru chikara ga taisetsu da.",
     "english": "Inferring kanji meaning from context is important.",
     "jlpt": "N2"
+  },
+  {
+    "japanese": "分からない単語は辞書で調べてから質問してください。",
+    "romaji": "Wakaranai tango wa jisho de shirabete kara shitsumon shite kudasai.",
+    "english": "Please look up unknown words before asking.",
+    "jlpt": "N4"
   }
 ]
